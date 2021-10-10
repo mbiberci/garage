@@ -1,0 +1,2 @@
+#Garage Application
+A simple garage application to park vehicles, leave the garage and see the status. Garage capacity is configurable via application properties (default is 10). Swagger documentation available at /swagger-ui.html
